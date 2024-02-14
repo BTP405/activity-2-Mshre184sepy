@@ -1,0 +1,7 @@
+This is a sample text file.
+It contains some words for testing.
+The words may appear on multiple lines.
+Each line is a new line in the text.
+Testing the wordCount function with this sample.
+Function should create a dictionary of unique words.
+The dictionary values should be lists of line numbers.
